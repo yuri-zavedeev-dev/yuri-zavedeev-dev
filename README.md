@@ -7,7 +7,7 @@
 
 ## Связаться со мной можно:
 * [yuri.zavedeev@mail.ru](mailto:yuri.zavedeev@mail.ru) - предпочитаемый способ связи
-* +79213085133 - Telegram: @yuri_zavedeev
+* +79213085133 - Telegram: [@yuri_zavedeev](https://t.me/yuri_zavedeev)
 
 ## Стек технологий, с которыми я знаком:
 
